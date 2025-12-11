@@ -1,3 +1,4 @@
+Apk download link : https://drive.google.com/file/d/13_Y096BB6FEfK15N382TxTYoTi-H1NrD/view?usp=sharing
 📘 Smart Fan Control App
 
 A simple Flutter application that allows users to log in using API credentials, view their connected smart fans, and control each fan’s power and speed.
