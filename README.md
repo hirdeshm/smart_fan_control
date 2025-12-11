@@ -1,17 +1,24 @@
-# atom_fan_control
+📘 Smart Fan Control App
 
-A new Flutter project.
+A simple Flutter application that allows users to log in using API credentials, view their connected smart fans, and control each fan’s power and speed.
+The app is lightweight, clean, and built for both mobile and web.
 
-## Getting Started
+🚀 Features
 
-This project is a starting point for a Flutter application.
+🔑 Login screen for API Key & Refresh Token
 
-A few resources to get you started if this is your first Flutter project:
+🌀 View all available fans
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+⚡ Fan power control (ON/OFF)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# smart_fan_control
+📈 Adjust fan speed (1–5 levels)
+
+🔄 Fan animation based on speed
+
+🧭 Navigation between fan list and control screen
+
+🌐 Web & Mobile compatible
+
+🎨 Simple and modern UI
+
+🔧 Easy to extend with real APIs
